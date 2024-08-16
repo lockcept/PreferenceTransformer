@@ -1,0 +1,15 @@
+pybullet-svl>=3.1.6.4
+gymnasium
+h5py
+open3d
+h5py
+psutil
+termcolor
+tensorboard
+tensorboardX
+imageio
+imageio-ffmpeg
+matplotlib
+egl_probe>=1.0.1
+torch
+torchvision
